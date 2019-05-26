@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://kapil.xyz/</loc>
+  <lastmod>2018-05-01T13:17:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://kapil.xyz/work/</loc>
+  <lastmod>2018-05-01T13:45:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kapil.xyz/resume/Kapil%20Adhikari.pdf</loc>
+  <lastmod>2018-05-01T06:20:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kapil.xyz/work/index.html</loc>
+  <lastmod>2018-05-01T13:45:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://kapil.xyz/work/research.html</loc>
+  <lastmod>2018-05-01T09:42:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://kapil.xyz/drborlaug/</loc>
+  <lastmod>2018-04-30T12:10:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://kapil.xyz/games/CrappyBird/</loc>
+  <lastmod>2017-08-19T14:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://kapil.xyz/games/Galactica/</loc>
+  <lastmod>2017-08-19T14:56:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://kapil.xyz/work/Online_Auctions_and_Ads%20_-_Via_-_Games.pdf</loc>
+  <lastmod>2018-05-01T09:42:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
